@@ -60,7 +60,7 @@ I found the coverage was quite similar across both the Foursquare API and Yelp A
 After sorting through the database, it was found that the top music venue based on rating was:
 * 1. Bar Cathedral - 54 The Esplanade - 5.0
 
-![bar_cathedral](/images/bar_cathedral.jpg)
+![bar_cathedral](images/bar_cathedral.jpg)
 
 ## Challenges 
 * Yelp data had address field values stored in a list (i.e. ['54 The Esplanade', 'Toronto, ON M5E 1A6', 'Canada'])
